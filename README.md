@@ -1,1 +1,3 @@
-# special-relativity
+# Special Relativity
+
+Special relativity is a great thought achievement in the early 20th century, and it is the cornerstone of modern physics. This course introduces the derivation of special relativity and its experimental results in detail. At the end of the course is a simulation experiment of special relativity, using the Monte Carlo method for simulation, and debugging the code to further deepen the understanding of the results, the course is from ICL.
